@@ -10,7 +10,7 @@
         <projectUrl>https://github.com/AlexSanseau/GenericsFactory</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <summary>A C# library which instanciate generics which have constructors with parameters</summary>
-        <description>Instanciate new objects using generics even if their constructors have parameters. </description>
+        <description>Instanciate new objects using generics when their constructors have parameters. </description>
         <copyright>Copyright (C)  2015 - Novadus Ltd</copyright>
         <tags>Generics constructor parameters factory</tags>
         <language></language>
