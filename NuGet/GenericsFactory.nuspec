@@ -16,7 +16,6 @@
         <language></language>
 	</metadata>
     <files>
-        <file src="net35\GenericsFactory.dll" target="lib\net35\GenericsFactory.dll" />
         <file src="net40\GenericsFactory.dll" target="lib\net40\GenericsFactory.dll" />
         <file src="net45\GenericsFactory.dll" target="lib\net45\GenericsFactory.dll" />
         <file src="net451\GenericsFactory.dll" target="lib\net451\GenericsFactory.dll" />
