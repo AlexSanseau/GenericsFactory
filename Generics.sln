@@ -12,6 +12,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics.Tests", "Generics.Tests\Generics.Tests.csproj", "{A44B2802-2670-45AE-A8EC-16C042E64713}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NuGet", "NuGet", "{7F4FF311-067B-4716-AA11-E55EFDF27586}"
+	ProjectSection(SolutionItems) = preProject
+		NuGet\create-package.bat = NuGet\create-package.bat
+		NuGet\GenericsFactory.nuspec = NuGet\GenericsFactory.nuspec
+		NuGet\GenericsFactory.png = NuGet\GenericsFactory.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

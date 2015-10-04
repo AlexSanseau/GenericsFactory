@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>GenericsFactory</id>
+        <version>1.0.0.1</version>
+        <title>GenericsFactory</title>
+        <authors>Alex Sanseau</authors>
+        <owners>Alex Sanseau</owners>
+        <iconUrl>https://raw.githubusercontent.com/AlexSanseau/GenericsFactory/master/NuGet/GenericsFactory.png</iconUrl>
+        <projectUrl>https://github.com/AlexSanseau/GenericsFactory</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <summary>A C# library which instanciate generics which have constructors with parameters</summary>
+        <description>Instanciate new objects using generics even if their constructors have parameters. </description>
+        <copyright>Copyright (C)  2015 - Novadus Ltd</copyright>
+        <tags>Generics constructor parameters factory</tags>
+        <language></language>
+	</metadata>
+    <files>
+        <file src="net35\GenericsFactory.dll" target="lib\net35\GenericsFactory.dll" />
+        <file src="net40\GenericsFactory.dll" target="lib\net40\GenericsFactory.dll" />
+        <file src="net45\GenericsFactory.dll" target="lib\net45\GenericsFactory.dll" />
+        <file src="net451\GenericsFactory.dll" target="lib\net451\GenericsFactory.dll" />
+    </files>
+</package>
